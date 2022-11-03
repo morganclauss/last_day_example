@@ -1,3 +1,4 @@
 This is a file created on Github
 Changed github text file locally
 here are some more changes
+INSIDE VS Code
